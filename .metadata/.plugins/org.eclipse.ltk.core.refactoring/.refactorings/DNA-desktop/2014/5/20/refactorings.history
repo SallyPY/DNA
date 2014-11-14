@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move 1 resources to &apos;images&apos;" description="Move 1 resources to &apos;images&apos;" destination="res/images" element1="res/strip.png" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1400188667653" updateReferences="true"/>
+</session>

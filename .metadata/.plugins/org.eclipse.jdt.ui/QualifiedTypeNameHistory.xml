@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.badlogic.gdx.scenes.scene2d.ui.Stack"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.Game"/>
+<fullyQualifiedTypeName name="java.util.Stack"/>
+<fullyQualifiedTypeName name="com.me.DNA.handlers.MyInput"/>
+<fullyQualifiedTypeName name="com.me.DNA.handlers.Content"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.physics.box2d.Fixture"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.graphics.g2d.Animation"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.graphics.g2d.SpriteBatch"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.graphics.g2d.TextureRegion"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.maps.MapObject"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.math.Ellipse"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.math.Rectangle"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.maps.objects.RectangleMapObject"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.physics.box2d.CircleShape"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.physics.box2d.World"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.physics.box2d.BodyDef.BodyType"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.utils.Array"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.Input.Keys"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.InputAdapter"/>
+<fullyQualifiedTypeName name="com.me.DNA.main.Game"/>
+<fullyQualifiedTypeName name="com.me.DNA.states.Menu"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.scenes.scene2d.ui.Label"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.graphics.Texture.TextureFilter"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.scenes.scene2d.InputEvent"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.Screen"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.scenes.scene2d.utils.ChangeListener.ChangeEvent"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.scenes.scene2d.utils.ChangeListener"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.graphics.Pixmap.Filter"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.physics.box2d.Filter"/>
+<fullyQualifiedTypeName name="com.me.DNA.entities.Letterg"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="com.me.DNA.handlers.Animation"/>
+<fullyQualifiedTypeName name="com.me.DNA.handlers.B2DVars"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.physics.box2d.Body"/>
+<fullyQualifiedTypeName name="com.me.DNA.entities.Strip"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.Gdx"/>
+<fullyQualifiedTypeName name="com.me.DNA.states.Instructions"/>
+</qualifiedTypeNameHistroy>
