@@ -10,6 +10,8 @@ ForeignGuyMike</a>, going off on my own when the differences between his game an
 
 <p> To create Decoding Life, I used the LibGDX application framework, which is specifically designed for game development. The graphics were created in either Gimp, a graphics editor, or  Blender, 3D graphics software.</p>
 
+An image of the splash screen:
+![alt tag](https://github.com/SallyPY/DNA/blob/master/DNA-desktop/res/images/splashscreen2.png)
 <hr>
 
 <h2>Background Info</h2>
